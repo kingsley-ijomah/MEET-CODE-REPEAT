@@ -1,0 +1,103 @@
+body {
+	font-family: "HelveticaNeue-Light", Helvetica, Arial, "Lucida Grande", sans-serif;
+}
+
+#container {
+	width: 1000px;
+	margin: auto;
+}
+
+#main-article {
+	float: left;
+	padding-left: 50px;
+	width: 570px;
+}
+
+#pic-container {
+	float: right;
+}
+
+.clearfloat {
+	overflow: auto;
+}
+
+#main-article > header > h1 {
+	font-family: "HelveticaNeue-UltraLight", Helvetica, Arial, "Lucida Grande", sans-serif;
+	font-weight: 300;
+	font-size: 50px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+#main-article > header > footer {
+	font-size: 25px;
+	margin-top: 10px;
+}
+
+#inner-article {
+	margin-top: 30px;
+}
+
+#inner-article p {
+	line-height: 25px;
+}
+
+#inner-article > footer p {
+	margin: 0px;
+}
+
+#call-us {
+	font-size: 30px;
+	padding-top: 8px;
+}
+
+#main-article-footer {
+	margin-top: 40px;
+	font-size: 14px;
+}
+
+#main-article-footer > address {
+	font-style:	normal;
+}
+
+#main-article-footer > address > p:first-child {
+	font-weight: bold;
+}
+
+#main-article-footer p {
+	margin: 4px;
+}
+
+#disclaimer {
+	font-size: 13px;
+	color: grey;
+	margin: 4px;
+	padding: 0px;
+}
+
+#site-footer {
+	background-color: #1B1130;
+	margin-top: 10px;
+}
+
+#web-address {
+	font-family: "HelveticaNeue-UltraLight";
+	padding-top: 32px;
+	margin-left: 50px;
+	float: left;
+	color: #fff;
+	font-size: 25px;
+	letter-spacing: 2px;
+}
+
+
+#slogan {
+	font-family: "HelveticaNeue-Light";
+	width: 110px;
+	text-align: center;
+	float: right;
+	background-color: #fff;
+	padding: 10px 0px;
+	margin-right: 120px;
+	font-size: 25px;
+}

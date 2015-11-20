@@ -25,7 +25,3 @@ Images for illustration purposes only.
 www.audleyretirement.co.uk
 
 GOOD MOVE
-
-================
-
-"HelveticaNeue-Light", Helvetica, Arial;
